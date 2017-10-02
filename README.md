@@ -4,22 +4,22 @@ This miniDatabase is implemented in C++. Basic functionality includes reading an
 
 The input file contains data in below format:
 
-First line contains column names separated by space |
+First line contains column names separated by space 
 
-second line contains column type separated by spaceand|
+second line contains column type separated by space
 
-third line onwards data.|
+third line onwards data.
 
 
-Sample:|
+Sample:
 
-age income|
+age income
 
-integer integer|
+integer integer
 
-15 8000|
+15 8000
 
-20 16000|
+20 16000
 
 
 
