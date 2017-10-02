@@ -4,15 +4,15 @@ This miniDatabase is implemented in C++. Basic functionality includes reading an
 
 The input file contains data in below format:
 
-First line contains column names separated by space
-second line contains column type separated by spaceand
-third line onwards data.
+First line contains column names separated by space|
+second line contains column type separated by spaceand|
+third line onwards data.|
 
-Sample:
-age income
-integer integer
-15 8000
-20 16000
+Sample:|
+age income|
+integer integer|
+15 8000|
+20 16000|
 
 
 Query could be of the form:[AVG/MIN/MAX] aggregation_attr grouping_attr
