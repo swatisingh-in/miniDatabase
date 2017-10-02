@@ -5,9 +5,7 @@ This miniDatabase is implemented in C++. Basic functionality includes reading an
 The input file contains data in below format:
 
 First line contains column names separated by space 
-
 second line contains column type separated by space
-
 third line onwards data.
 
 
