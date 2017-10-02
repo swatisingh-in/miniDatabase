@@ -12,13 +12,9 @@ third line onwards data.
 Sample:
 
 age income
-
 integer integer
-
 15 8000
-
 20 16000
-
 
 
 Query could be of the form:[AVG/MIN/MAX] aggregation_attr grouping_attr
